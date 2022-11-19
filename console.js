@@ -1,4 +1,4 @@
 //1
-f(){
+f(z=1){
   console.log("wrld")}
-f()
+f(z)
